@@ -1,6 +1,6 @@
 A simple DOS-based calculator written in 8086 Assembly, designed to run using EMU8086. It performs basic arithmetic operations and logs the results to a file.
 
-**Features**
+**Features:**
 
 -Menu-driven interface (Addition, Subtraction, Multiplication, Division, Exit)
 
@@ -12,17 +12,17 @@ A simple DOS-based calculator written in 8086 Assembly, designed to run using EM
 
 -Uses BIOS and DOS interrupts for I/O operations
 
-**How to Run**
+**How to Run:**
 
 -Open the code in "EMU8086 IDE"
 
 -Assemble and run the program
 
-**File Output**
+**File Output:**
 
 -Results are saved in CALCS.TXT in the program's directory
 
-**Limitations**
+**Limitations:**
 
 -Accepts only 2-digit positive integers
 
